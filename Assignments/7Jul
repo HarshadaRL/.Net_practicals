@@ -1,0 +1,75 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+int total_packages = 0;
+int require_quality_check = 0;
+int priority_shipment = 0;
+int normal_processing = 0;
+for(int i = 1001; i <= 1020; i++)
+{
+    total_packages++;
+    if(i % 4 == 0)
+    {
+        require_quality_check++;
+    }
+    else if(i % 5 == 0)
+    {
+        priority_shipment++;
+    }
+    else
+    {
+        normal_processing++;
+    }
+}
+
+    Console.WriteLine("Total packages processed: " + total_packages);
+    Console.WriteLine("Packages requiring quality check: " + require_quality_check);
+    Console.WriteLine("Priority shipments: " + priority_shipment);
+    Console.WriteLine("Normal processing: " + normal_processing);
+
+    
+
+
+  
+        int totalPower = 0;
+        int maintenance = 0;
+        int normal = 0;
+        int efficient = 0;
+
+        for (int light = 1; light <= 30; light++)
+        {
+            int power = 80 + (light * 5);
+
+            totalPower += power;
+
+            if (power > 180)
+            {
+                Console.WriteLine("Light " + light + " : " + power + " W - Maintenance Required");
+                maintenance++;
+            }
+            else if (power >= 140 && power <= 180)
+            {
+                Console.WriteLine("Light " + light + " : " + power + " W - Normal Operation");
+                normal++;
+            }
+            else
+            {
+                Console.WriteLine("Light " + light + " : " + power + " W - Energy Efficient");
+                efficient++;
+            }
+        }
+
+        double averagePower = (double)totalPower / 30;
+
+        Console.WriteLine("\nTotal Power Consumed: " + totalPower + " W");
+        Console.WriteLine("Average Power Consumption: " + averagePower + " W");
+        Console.WriteLine("Maintenance Required: " + maintenance);
+        Console.WriteLine("Normal Operation: " + normal);
+        Console.WriteLine("Energy Efficient: " + efficient);
+    
+
+    }
+}
