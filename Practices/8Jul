@@ -1,0 +1,17 @@
+using System;
+
+class Class_Objects
+{
+    static void Main()
+    {
+        Student student = new Student();
+        student.rollno = 12;
+        student.name = "Jack";
+        student.dob = 24042007;
+        student.gender = 'F';
+        student.height = 5.8f;
+        student.institute = "ABC College";
+
+        student.display();
+    }
+}
