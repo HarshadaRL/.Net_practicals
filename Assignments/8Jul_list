@@ -1,0 +1,35 @@
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        List<string> books = new List<string>()
+        {
+            "C Programming",
+            "Java",
+            "Python",
+            ".NET",
+            "DBMS"
+        };
+
+        Console.WriteLine("Available Books:");
+        foreach (string book in books)
+        {
+            Console.WriteLine(book);
+        }
+
+        books.Add("Data Structures");
+
+        books.Remove("Java");
+
+        Console.WriteLine("\nUpdated Book List:");
+        foreach (string book in books)
+        {
+            Console.WriteLine(book);
+        }
+
+        Console.WriteLine("\nTotal Number of Books: " + books.Count);
+    }
+}
