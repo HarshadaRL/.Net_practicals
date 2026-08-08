@@ -1,0 +1,19 @@
+﻿@model EmployeeManagementSystem.Models.Employee
+
+<h2 style="color:green">
+    Employee Added Successfully
+</h2>
+
+<hr />
+
+<h4>Employee Name : @Model.EmployeeName</h4>
+
+<h4>Department : @Model.Department</h4>
+
+<br />
+
+<a asp-controller="Department"
+   asp-action="Details"
+   class="btn btn-success">
+    View Department Details
+</a>

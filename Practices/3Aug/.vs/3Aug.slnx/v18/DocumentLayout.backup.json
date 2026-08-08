@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\practical .net\\Practice\\3Aug\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|c:\\practical .net\\practice\\3aug\\3aug\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|solutionrelative:3aug\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|c:\\practical .net\\practice\\3aug\\3aug\\controllers\\batchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|solutionrelative:3aug\\controllers\\batchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|c:\\practical .net\\practice\\3aug\\3aug\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|solutionrelative:3aug\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|c:\\practical .net\\practice\\3aug\\3aug\\repository\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|solutionrelative:3aug\\repository\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|c:\\practical .net\\practice\\3aug\\3aug\\services\\batchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|solutionrelative:3aug\\services\\batchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|c:\\practical .net\\practice\\3aug\\3aug\\repository\\ibatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|solutionrelative:3aug\\repository\\ibatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|c:\\practical .net\\practice\\3aug\\3aug\\exception\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|solutionrelative:3aug\\exception\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|c:\\practical .net\\practice\\3aug\\3aug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|solutionrelative:3aug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|c:\\practical .net\\practice\\3aug\\3aug\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|solutionrelative:3aug\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|c:\\practical .net\\practice\\3aug\\3aug\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|solutionrelative:3aug\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|c:\\practical .net\\practice\\3aug\\3aug\\models\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|solutionrelative:3aug\\models\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|c:\\practical .net\\practice\\3aug\\3aug\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|solutionrelative:3aug\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|c:\\practical .net\\practice\\3aug\\3aug\\repository\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|solutionrelative:3aug\\repository\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|c:\\practical .net\\practice\\3aug\\3aug\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|solutionrelative:3aug\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|c:\\practical .net\\practice\\3aug\\3aug\\3aug.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{182B6F98-421F-7259-ACE4-8D088DF2183C}|3Aug\\3Aug.csproj|solutionrelative:3aug\\3aug.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BatchService.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Services\\BatchService.cs",
+              "RelativeDocumentMoniker": "3Aug\\Services\\BatchService.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Services\\BatchService.cs",
+              "RelativeToolTip": "3Aug\\Services\\BatchService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T06:09:08.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBatchService.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Repository\\IBatchService.cs",
+              "RelativeDocumentMoniker": "3Aug\\Repository\\IBatchService.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Repository\\IBatchService.cs",
+              "RelativeToolTip": "3Aug\\Repository\\IBatchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T06:06:39.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BatchController.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Controllers\\BatchController.cs",
+              "RelativeDocumentMoniker": "3Aug\\Controllers\\BatchController.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Controllers\\BatchController.cs",
+              "RelativeToolTip": "3Aug\\Controllers\\BatchController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T06:19:25.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Repository\\ICourseService.cs",
+              "RelativeDocumentMoniker": "3Aug\\Repository\\ICourseService.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Repository\\ICourseService.cs",
+              "RelativeToolTip": "3Aug\\Repository\\ICourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T06:24:51.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "3Aug\\Models\\Course.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Models\\Course.cs",
+              "RelativeToolTip": "3Aug\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T06:24:02.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "3Aug\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "3Aug\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T16:32:03.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Exception\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "3Aug\\Exception\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Exception\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "3Aug\\Exception\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T05:14:40.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Program.cs",
+              "RelativeDocumentMoniker": "3Aug\\Program.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Program.cs",
+              "RelativeToolTip": "3Aug\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T05:21:59.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "3Aug\\Services\\CourseService.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Services\\CourseService.cs",
+              "RelativeToolTip": "3Aug\\Services\\CourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T06:27:24.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "3Aug\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "3Aug\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T05:03:26.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Batch.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Models\\Batch.cs",
+              "RelativeDocumentMoniker": "3Aug\\Models\\Batch.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Models\\Batch.cs",
+              "RelativeToolTip": "3Aug\\Models\\Batch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T06:03:43.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "3Aug\\Services\\StudentService.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Services\\StudentService.cs",
+              "RelativeToolTip": "3Aug\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T04:54:33.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Repository\\IStudentService.cs",
+              "RelativeDocumentMoniker": "3Aug\\Repository\\IStudentService.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Repository\\IStudentService.cs",
+              "RelativeToolTip": "3Aug\\Repository\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T04:49:56.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "3Aug\\Models\\Student.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\3Aug\\3Aug\\Models\\Student.cs",
+              "RelativeToolTip": "3Aug\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T04:39:06.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "3Aug.csproj",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\3Aug\\3Aug\\3Aug.csproj",
+              "RelativeDocumentMoniker": "3Aug\\3Aug.csproj",
+              "ToolTip": "C:\\practical .net\\Practice\\3Aug\\3Aug\\3Aug.csproj",
+              "RelativeToolTip": "3Aug\\3Aug.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-03T04:34:38.062Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

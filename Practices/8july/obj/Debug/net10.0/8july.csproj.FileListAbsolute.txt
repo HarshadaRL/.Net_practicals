@@ -1,0 +1,15 @@
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\8july\obj\Debug\net10.0\8july.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\8july\obj\Debug\net10.0\8july.AssemblyInfoInputs.cache
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\8july\obj\Debug\net10.0\8july.AssemblyInfo.cs
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\8july\obj\Debug\net10.0\8july.csproj.CoreCompileInputs.cache
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\8july\obj\Debug\net10.0\8july.sourcelink.json
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\8july\bin\Debug\net10.0\8july.exe
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\8july\bin\Debug\net10.0\8july.deps.json
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\8july\bin\Debug\net10.0\8july.runtimeconfig.json
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\8july\bin\Debug\net10.0\8july.dll
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\8july\bin\Debug\net10.0\8july.pdb
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\8july\obj\Debug\net10.0\8july.dll
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\8july\obj\Debug\net10.0\refint\8july.dll
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\8july\obj\Debug\net10.0\8july.pdb
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\8july\obj\Debug\net10.0\8july.genruntimeconfig.cache
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\8july\obj\Debug\net10.0\ref\8july.dll

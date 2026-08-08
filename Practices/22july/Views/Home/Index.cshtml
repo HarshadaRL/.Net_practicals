@@ -1,0 +1,50 @@
+﻿@model _22july.Models.Product
+
+<div class="text-center">
+    <h1 class="display-4">Add Product</h1>
+</div>
+
+<form asp-controller="Home" asp-action="Index" method="post">
+
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label asp-for="Price"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label asp-for="Category"></label>
+        <input asp-for="Category" class="form-control" />
+        <span asp-validation-for="Category" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label asp-for="Stock"></label>
+        <input asp-for="Stock" class="form-control" />
+        <span asp-validation-for="Stock" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <button type="submit" class="btn btn-primary">
+        Submit
+    </button>
+
+</form>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}

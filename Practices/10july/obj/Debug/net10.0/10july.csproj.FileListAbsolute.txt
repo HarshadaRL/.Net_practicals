@@ -1,0 +1,15 @@
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\10july\bin\Debug\net10.0\10july.exe
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\10july\bin\Debug\net10.0\10july.deps.json
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\10july\bin\Debug\net10.0\10july.runtimeconfig.json
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\10july\bin\Debug\net10.0\10july.dll
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\10july\bin\Debug\net10.0\10july.pdb
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\10july\obj\Debug\net10.0\10july.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\10july\obj\Debug\net10.0\10july.AssemblyInfoInputs.cache
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\10july\obj\Debug\net10.0\10july.AssemblyInfo.cs
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\10july\obj\Debug\net10.0\10july.csproj.CoreCompileInputs.cache
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\10july\obj\Debug\net10.0\10july.sourcelink.json
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\10july\obj\Debug\net10.0\10july.dll
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\10july\obj\Debug\net10.0\refint\10july.dll
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\10july\obj\Debug\net10.0\10july.pdb
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\10july\obj\Debug\net10.0\10july.genruntimeconfig.cache
+C:\Users\91932\OneDrive\Desktop\Full Stack .Net\Practice\10july\obj\Debug\net10.0\ref\10july.dll

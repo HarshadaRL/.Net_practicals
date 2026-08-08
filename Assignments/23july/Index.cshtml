@@ -1,0 +1,22 @@
+﻿@model List<_23_July.Models.Product>
+
+<h3>Product List</h3>
+
+<table border="1" cellspacing="10">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Price</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Price</td>
+        </tr>
+    }
+
+</table>
+<a asp-controller="Stationary" asp-action="Stationary">Stationary</a>

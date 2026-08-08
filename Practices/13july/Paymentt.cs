@@ -1,0 +1,4 @@
+interface Paymentt
+{
+    void Pay();
+}

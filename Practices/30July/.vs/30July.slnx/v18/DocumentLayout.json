@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\practical .net\\Practice\\30July\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45331C4F-5E8B-F33C-3204-B4F4F72FE94E}|30July\\30July.csproj|c:\\practical .net\\practice\\30july\\30july\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45331C4F-5E8B-F33C-3204-B4F4F72FE94E}|30July\\30July.csproj|solutionrelative:30july\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45331C4F-5E8B-F33C-3204-B4F4F72FE94E}|30July\\30July.csproj|c:\\practical .net\\practice\\30july\\30july\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45331C4F-5E8B-F33C-3204-B4F4F72FE94E}|30July\\30July.csproj|solutionrelative:30july\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45331C4F-5E8B-F33C-3204-B4F4F72FE94E}|30July\\30July.csproj|c:\\practical .net\\practice\\30july\\30july\\controllers\\batchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45331C4F-5E8B-F33C-3204-B4F4F72FE94E}|30July\\30July.csproj|solutionrelative:30july\\controllers\\batchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45331C4F-5E8B-F33C-3204-B4F4F72FE94E}|30July\\30July.csproj|c:\\practical .net\\practice\\30july\\30july\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45331C4F-5E8B-F33C-3204-B4F4F72FE94E}|30July\\30July.csproj|solutionrelative:30july\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45331C4F-5E8B-F33C-3204-B4F4F72FE94E}|30July\\30July.csproj|c:\\practical .net\\practice\\30july\\30july\\models\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45331C4F-5E8B-F33C-3204-B4F4F72FE94E}|30July\\30July.csproj|solutionrelative:30july\\models\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45331C4F-5E8B-F33C-3204-B4F4F72FE94E}|30July\\30July.csproj|c:\\practical .net\\practice\\30july\\30july\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45331C4F-5E8B-F33C-3204-B4F4F72FE94E}|30July\\30July.csproj|solutionrelative:30july\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45331C4F-5E8B-F33C-3204-B4F4F72FE94E}|30July\\30July.csproj|c:\\practical .net\\practice\\30july\\30july\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45331C4F-5E8B-F33C-3204-B4F4F72FE94E}|30July\\30July.csproj|solutionrelative:30july\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45331C4F-5E8B-F33C-3204-B4F4F72FE94E}|30July\\30July.csproj|c:\\practical .net\\practice\\30july\\30july\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45331C4F-5E8B-F33C-3204-B4F4F72FE94E}|30July\\30July.csproj|solutionrelative:30july\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45331C4F-5E8B-F33C-3204-B4F4F72FE94E}|30July\\30July.csproj|c:\\practical .net\\practice\\30july\\30july\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45331C4F-5E8B-F33C-3204-B4F4F72FE94E}|30July\\30July.csproj|solutionrelative:30july\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\30July\\30July\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "30July\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\30July\\30July\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "30July\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T06:12:32.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\30July\\30July\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "30July\\Models\\Course.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\30July\\30July\\Models\\Course.cs",
+              "RelativeToolTip": "30July\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T06:09:21.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BatchController.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\30July\\30July\\Controllers\\BatchController.cs",
+              "RelativeDocumentMoniker": "30July\\Controllers\\BatchController.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\30July\\30July\\Controllers\\BatchController.cs",
+              "RelativeToolTip": "30July\\Controllers\\BatchController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T04:55:18.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\30July\\30July\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "30July\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\30July\\30July\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "30July\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T04:35:05.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\30July\\30July\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "30July\\Service\\StudentService.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\30July\\30July\\Service\\StudentService.cs",
+              "RelativeToolTip": "30July\\Service\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T04:34:36.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\30July\\30July\\Service\\IStudentService.cs",
+              "RelativeDocumentMoniker": "30July\\Service\\IStudentService.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\30July\\30July\\Service\\IStudentService.cs",
+              "RelativeToolTip": "30July\\Service\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T04:34:18.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Batch.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\30July\\30July\\Models\\Batch.cs",
+              "RelativeDocumentMoniker": "30July\\Models\\Batch.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\30July\\30July\\Models\\Batch.cs",
+              "RelativeToolTip": "30July\\Models\\Batch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T04:32:37.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\30July\\30July\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "30July\\Models\\Student.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\30July\\30July\\Models\\Student.cs",
+              "RelativeToolTip": "30July\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T04:32:20.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\practical .net\\Practice\\30July\\30July\\Program.cs",
+              "RelativeDocumentMoniker": "30July\\Program.cs",
+              "ToolTip": "C:\\practical .net\\Practice\\30July\\30July\\Program.cs",
+              "RelativeToolTip": "30July\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T04:29:43.803Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

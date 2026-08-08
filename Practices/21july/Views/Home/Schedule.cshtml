@@ -1,0 +1,25 @@
+﻿@model List<_21july.Models.Course>
+
+<h3>Register Successfully</h3>
+<h4>Welcome, @TempData["StudentName"]</h4>
+
+<p>Your registered course & schedule are shown below</p>
+
+<table border="1" cellpadding="8">
+    <tr>
+        <th>Course Name</th>
+        <th>Semester</th>
+        <th>Session Time</th>
+        <th>Days</th>
+    </tr>
+
+    @foreach (var course in Model)
+    {
+        <tr>
+            <td>@course.courseName</td>
+            <td>@course.sem</td>
+            <td>@course.sessionTime</td>
+            <td>@course.days</td>
+        </tr>
+    }
+</table>

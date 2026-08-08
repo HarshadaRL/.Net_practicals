@@ -1,0 +1,42 @@
+﻿@model _23_July.Models.Stationary
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to stationary</h1>
+</div>
+<form asp-controller="Stationary" asp-action="Stationary" method="post">
+
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label asp-for="Price"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label asp-for="Brand"></label>
+        <input asp-for="Brand" class="form-control" />
+        <span asp-validation-for="Brand" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label asp-for="stock"></label>
+        <input asp-for="stock" class="form-control" />
+        <span asp-validation-for="stock" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <button type="submit" class="btn btn-primary">Save Sattionary</button>
+
+</form>
