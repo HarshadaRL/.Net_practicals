@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4orv/KeZexY=",
+  "dgSpecHash": "16IbcX5oJvc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN\\source\\repos\\Automobile\\Automobile\\Automobile.csproj",
+  "projectFilePath": "C:\\.NET training\\.Net_practicals\\Assignments\\10Aug\\Automobile\\Automobile.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

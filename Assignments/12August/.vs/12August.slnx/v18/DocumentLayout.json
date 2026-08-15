@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\12August\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F82C73-DD0F-4869-80D9-0E832E154EF0}|12August\\12August.csproj|c:\\users\\admin\\source\\repos\\12august\\12august\\dtos\\bookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F82C73-DD0F-4869-80D9-0E832E154EF0}|12August\\12August.csproj|solutionrelative:12august\\dtos\\bookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F82C73-DD0F-4869-80D9-0E832E154EF0}|12August\\12August.csproj|c:\\users\\admin\\source\\repos\\12august\\12august\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0F82C73-DD0F-4869-80D9-0E832E154EF0}|12August\\12August.csproj|solutionrelative:12august\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F82C73-DD0F-4869-80D9-0E832E154EF0}|12August\\12August.csproj|c:\\users\\admin\\source\\repos\\12august\\12august\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F82C73-DD0F-4869-80D9-0E832E154EF0}|12August\\12August.csproj|solutionrelative:12august\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F82C73-DD0F-4869-80D9-0E832E154EF0}|12August\\12August.csproj|c:\\users\\admin\\source\\repos\\12august\\12august\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F82C73-DD0F-4869-80D9-0E832E154EF0}|12August\\12August.csproj|solutionrelative:12august\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F82C73-DD0F-4869-80D9-0E832E154EF0}|12August\\12August.csproj|c:\\users\\admin\\source\\repos\\12august\\12august\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F82C73-DD0F-4869-80D9-0E832E154EF0}|12August\\12August.csproj|solutionrelative:12august\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F82C73-DD0F-4869-80D9-0E832E154EF0}|12August\\12August.csproj|c:\\users\\admin\\source\\repos\\12august\\12august\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F82C73-DD0F-4869-80D9-0E832E154EF0}|12August\\12August.csproj|solutionrelative:12august\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F82C73-DD0F-4869-80D9-0E832E154EF0}|12August\\12August.csproj|c:\\users\\admin\\source\\repos\\12august\\12august\\models\\bookingroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F82C73-DD0F-4869-80D9-0E832E154EF0}|12August\\12August.csproj|solutionrelative:12august\\models\\bookingroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F82C73-DD0F-4869-80D9-0E832E154EF0}|12August\\12August.csproj|c:\\users\\admin\\source\\repos\\12august\\12august\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F82C73-DD0F-4869-80D9-0E832E154EF0}|12August\\12August.csproj|solutionrelative:12august\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F82C73-DD0F-4869-80D9-0E832E154EF0}|12August\\12August.csproj|c:\\users\\admin\\source\\repos\\12august\\12august\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F82C73-DD0F-4869-80D9-0E832E154EF0}|12August\\12August.csproj|solutionrelative:12august\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F82C73-DD0F-4869-80D9-0E832E154EF0}|12August\\12August.csproj|c:\\users\\admin\\source\\repos\\12august\\12august\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F82C73-DD0F-4869-80D9-0E832E154EF0}|12August\\12August.csproj|solutionrelative:12august\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\12August\\12August\\DTOs\\BookingRequest.cs",
+              "RelativeDocumentMoniker": "12August\\DTOs\\BookingRequest.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\12August\\12August\\DTOs\\BookingRequest.cs*",
+              "RelativeToolTip": "12August\\DTOs\\BookingRequest.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:49:12.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\12August\\12August\\appsettings.json",
+              "RelativeDocumentMoniker": "12August\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\12August\\12August\\appsettings.json*",
+              "RelativeToolTip": "12August\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-13T17:48:15.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\12August\\12August\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "12August\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\12August\\12August\\Models\\Hotel.cs*",
+              "RelativeToolTip": "12August\\Models\\Hotel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:47:32.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\12August\\12August\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "12August\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\12August\\12August\\Models\\Room.cs*",
+              "RelativeToolTip": "12August\\Models\\Room.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:47:13.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\12August\\12August\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "12August\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\12August\\12August\\Models\\Customer.cs*",
+              "RelativeToolTip": "12August\\Models\\Customer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:46:50.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\12August\\12August\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "12August\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\12August\\12August\\Models\\Booking.cs*",
+              "RelativeToolTip": "12August\\Models\\Booking.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:46:26.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingRoom.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\12August\\12August\\Models\\BookingRoom.cs",
+              "RelativeDocumentMoniker": "12August\\Models\\BookingRoom.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\12August\\12August\\Models\\BookingRoom.cs*",
+              "RelativeToolTip": "12August\\Models\\BookingRoom.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:46:02.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\12August\\12August\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "12August\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\12August\\12August\\Data\\AppDbContext.cs*",
+              "RelativeToolTip": "12August\\Data\\AppDbContext.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:45:20.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HotelController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\12August\\12August\\Controllers\\HotelController.cs",
+              "RelativeDocumentMoniker": "12August\\Controllers\\HotelController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\12August\\12August\\Controllers\\HotelController.cs*",
+              "RelativeToolTip": "12August\\Controllers\\HotelController.cs*",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:44:46.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\12August\\12August\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "12August\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\12August\\12August\\Controllers\\BookingController.cs*",
+              "RelativeToolTip": "12August\\Controllers\\BookingController.cs*",
+              "ViewState": "AgIAANIAAAAAAAAAAAAkwO4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:44:13.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

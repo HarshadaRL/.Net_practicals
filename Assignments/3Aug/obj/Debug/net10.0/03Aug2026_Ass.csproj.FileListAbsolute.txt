@@ -1,0 +1,8 @@
+C:\Users\hande\OneDrive\Desktop\DOT-NET TRANING\Assignment\03Aug2026_Ass\obj\Debug\net10.0\03Aug2026_Ass.csproj.AssemblyReference.cache
+C:\Users\hande\OneDrive\Desktop\DOT-NET TRANING\Assignment\03Aug2026_Ass\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\hande\OneDrive\Desktop\DOT-NET TRANING\Assignment\03Aug2026_Ass\obj\Debug\net10.0\03Aug2026_Ass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hande\OneDrive\Desktop\DOT-NET TRANING\Assignment\03Aug2026_Ass\obj\Debug\net10.0\03Aug2026_Ass.AssemblyInfoInputs.cache
+C:\Users\hande\OneDrive\Desktop\DOT-NET TRANING\Assignment\03Aug2026_Ass\obj\Debug\net10.0\03Aug2026_Ass.AssemblyInfo.cs
+C:\Users\hande\OneDrive\Desktop\DOT-NET TRANING\Assignment\03Aug2026_Ass\obj\Debug\net10.0\03Aug2026_Ass.csproj.CoreCompileInputs.cache
+C:\Users\hande\OneDrive\Desktop\DOT-NET TRANING\Assignment\03Aug2026_Ass\obj\Debug\net10.0\03Aug2026_Ass.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hande\OneDrive\Desktop\DOT-NET TRANING\Assignment\03Aug2026_Ass\obj\Debug\net10.0\03Aug2026_Ass.MvcApplicationPartsAssemblyInfo.cache

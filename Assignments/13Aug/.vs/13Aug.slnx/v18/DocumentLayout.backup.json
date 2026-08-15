@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\13Aug\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5854F3-B447-405E-B603-FFF6075FA19C}|13Aug\\13Aug.csproj|c:\\users\\admin\\source\\repos\\13aug\\13aug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5854F3-B447-405E-B603-FFF6075FA19C}|13Aug\\13Aug.csproj|solutionrelative:13aug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5854F3-B447-405E-B603-FFF6075FA19C}|13Aug\\13Aug.csproj|c:\\users\\admin\\source\\repos\\13aug\\13aug\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC5854F3-B447-405E-B603-FFF6075FA19C}|13Aug\\13Aug.csproj|solutionrelative:13aug\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5854F3-B447-405E-B603-FFF6075FA19C}|13Aug\\13Aug.csproj|c:\\users\\admin\\source\\repos\\13aug\\13aug\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5854F3-B447-405E-B603-FFF6075FA19C}|13Aug\\13Aug.csproj|solutionrelative:13aug\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5854F3-B447-405E-B603-FFF6075FA19C}|13Aug\\13Aug.csproj|c:\\users\\admin\\source\\repos\\13aug\\13aug\\controllers\\authcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5854F3-B447-405E-B603-FFF6075FA19C}|13Aug\\13Aug.csproj|solutionrelative:13aug\\controllers\\authcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5854F3-B447-405E-B603-FFF6075FA19C}|13Aug\\13Aug.csproj|c:\\users\\admin\\source\\repos\\13aug\\13aug\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5854F3-B447-405E-B603-FFF6075FA19C}|13Aug\\13Aug.csproj|solutionrelative:13aug\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5854F3-B447-405E-B603-FFF6075FA19C}|13Aug\\13Aug.csproj|c:\\users\\admin\\source\\repos\\13aug\\13aug\\repository\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5854F3-B447-405E-B603-FFF6075FA19C}|13Aug\\13Aug.csproj|solutionrelative:13aug\\repository\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5854F3-B447-405E-B603-FFF6075FA19C}|13Aug\\13Aug.csproj|c:\\users\\admin\\source\\repos\\13aug\\13aug\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5854F3-B447-405E-B603-FFF6075FA19C}|13Aug\\13Aug.csproj|solutionrelative:13aug\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5854F3-B447-405E-B603-FFF6075FA19C}|13Aug\\13Aug.csproj|c:\\users\\admin\\source\\repos\\13aug\\13aug\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5854F3-B447-405E-B603-FFF6075FA19C}|13Aug\\13Aug.csproj|solutionrelative:13aug\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5854F3-B447-405E-B603-FFF6075FA19C}|13Aug\\13Aug.csproj|c:\\users\\admin\\source\\repos\\13aug\\13aug\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5854F3-B447-405E-B603-FFF6075FA19C}|13Aug\\13Aug.csproj|solutionrelative:13aug\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\13Aug\\13Aug\\Program.cs",
+              "RelativeDocumentMoniker": "13Aug\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\13Aug\\13Aug\\Program.cs*",
+              "RelativeToolTip": "13Aug\\Program.cs*",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T18:03:00.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\13Aug\\13Aug\\appsettings.json",
+              "RelativeDocumentMoniker": "13Aug\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\13Aug\\13Aug\\appsettings.json*",
+              "RelativeToolTip": "13Aug\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-13T18:02:45.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\13Aug\\13Aug\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "13Aug\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\13Aug\\13Aug\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "13Aug\\Controllers\\ProductController.cs*",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAIwI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T18:02:27.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthContoller.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\13Aug\\13Aug\\Controllers\\AuthContoller.cs",
+              "RelativeDocumentMoniker": "13Aug\\Controllers\\AuthContoller.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\13Aug\\13Aug\\Controllers\\AuthContoller.cs*",
+              "RelativeToolTip": "13Aug\\Controllers\\AuthContoller.cs*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T18:01:35.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\13Aug\\13Aug\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "13Aug\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\13Aug\\13Aug\\Services\\AuthService.cs*",
+              "RelativeToolTip": "13Aug\\Services\\AuthService.cs*",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T18:01:09.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\13Aug\\13Aug\\Repository\\IAuthService.cs",
+              "RelativeDocumentMoniker": "13Aug\\Repository\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\13Aug\\13Aug\\Repository\\IAuthService.cs*",
+              "RelativeToolTip": "13Aug\\Repository\\IAuthService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T18:00:27.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\13Aug\\13Aug\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "13Aug\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\13Aug\\13Aug\\Data\\AppDbContext.cs*",
+              "RelativeToolTip": "13Aug\\Data\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:59:07.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\13Aug\\13Aug\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "13Aug\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\13Aug\\13Aug\\Models\\Product.cs*",
+              "RelativeToolTip": "13Aug\\Models\\Product.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:58:29.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\13Aug\\13Aug\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "13Aug\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\13Aug\\13Aug\\Models\\Customer.cs*",
+              "RelativeToolTip": "13Aug\\Models\\Customer.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T17:58:03.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

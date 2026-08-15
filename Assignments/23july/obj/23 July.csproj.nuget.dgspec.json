@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hansa\\Downloads\\Full-Stack-.Net-main\\Full-Stack-.Net-main\\Daily_Assignment\\23july\\23 July.csproj": {}
+    "C:\\.NET training\\.Net_practicals\\Assignments\\23july\\23 July.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hansa\\Downloads\\Full-Stack-.Net-main\\Full-Stack-.Net-main\\Daily_Assignment\\23july\\23 July.csproj": {
+    "C:\\.NET training\\.Net_practicals\\Assignments\\23july\\23 July.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hansa\\Downloads\\Full-Stack-.Net-main\\Full-Stack-.Net-main\\Daily_Assignment\\23july\\23 July.csproj",
+        "projectUniqueName": "C:\\.NET training\\.Net_practicals\\Assignments\\23july\\23 July.csproj",
         "projectName": "23 July",
-        "projectPath": "C:\\Users\\hansa\\Downloads\\Full-Stack-.Net-main\\Full-Stack-.Net-main\\Daily_Assignment\\23july\\23 July.csproj",
-        "packagesPath": "C:\\Users\\hansa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hansa\\Downloads\\Full-Stack-.Net-main\\Full-Stack-.Net-main\\Daily_Assignment\\23july\\obj\\",
+        "projectPath": "C:\\.NET training\\.Net_practicals\\Assignments\\23july\\23 July.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\.NET training\\.Net_practicals\\Assignments\\23july\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hansa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net8.0": {
@@ -62,6 +62,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.30, 8.0.30]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.30, 8.0.30]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.30, 8.0.30]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.30, 8.0.30]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -70,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

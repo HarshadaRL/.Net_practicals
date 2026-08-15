@@ -498,23 +498,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hansa\\.nuget\\packages\\": {},
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hansa\\Downloads\\Full-Stack-.Net-main\\Full-Stack-.Net-main\\Practice\\29July\\29July\\29July.csproj",
+      "projectUniqueName": "C:\\.NET training\\.Net_practicals\\Practices\\29July\\29July\\29July.csproj",
       "projectName": "29July",
-      "projectPath": "C:\\Users\\hansa\\Downloads\\Full-Stack-.Net-main\\Full-Stack-.Net-main\\Practice\\29July\\29July\\29July.csproj",
-      "packagesPath": "C:\\Users\\hansa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hansa\\Downloads\\Full-Stack-.Net-main\\Full-Stack-.Net-main\\Practice\\29July\\29July\\obj\\",
+      "projectPath": "C:\\.NET training\\.Net_practicals\\Practices\\29July\\29July\\29July.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "C:\\.NET training\\.Net_practicals\\Practices\\29July\\29July\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\hansa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -542,7 +542,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.300"
+      "SdkAnalysisLevel": "10.0.400"
     },
     "frameworks": {
       "net10.0": {
@@ -577,7 +577,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
@@ -970,4 +970,37 @@
           "System.Text.Encoding.CodePages": "(,10.0.32767]",
           "System.Text.Encoding.Extensions": "(,4.3.32767]",
           "System.Text.Encodings.Web": "(,10.0.32767]",
-          "System.Text.Json": "(,
+          "System.Text.Json": "(,10.0.32767]",
+          "System.Text.RegularExpressions": "(,4.3.32767]",
+          "System.Threading": "(,4.3.32767]",
+          "System.Threading.AccessControl": "(,10.0.32767]",
+          "System.Threading.Channels": "(,10.0.32767]",
+          "System.Threading.Overlapped": "(,4.3.32767]",
+          "System.Threading.RateLimiting": "(,10.0.32767]",
+          "System.Threading.Tasks": "(,4.3.32767]",
+          "System.Threading.Tasks.Dataflow": "(,10.0.32767]",
+          "System.Threading.Tasks.Extensions": "(,5.0.32767]",
+          "System.Threading.Tasks.Parallel": "(,4.3.32767]",
+          "System.Threading.Thread": "(,4.3.32767]",
+          "System.Threading.ThreadPool": "(,4.3.32767]",
+          "System.Threading.Timer": "(,4.3.32767]",
+          "System.ValueTuple": "(,4.5.32767]",
+          "System.Xml.ReaderWriter": "(,4.3.32767]",
+          "System.Xml.XDocument": "(,4.3.32767]",
+          "System.Xml.XmlDocument": "(,4.3.32767]",
+          "System.Xml.XmlSerializer": "(,4.3.32767]",
+          "System.Xml.XPath": "(,4.3.32767]",
+          "System.Xml.XPath.XDocument": "(,5.0.32767]"
+        }
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\.NET training\\.Net_practicals\\Practices\\29July\\29July\\obj\\project.nuget.cache : Expected end of string, but instead reached end of data. Path: $.expectedPackageFiles[6] | LineNumber: 12 | BytePositionInLine: 70."
+    }
+  ]
+}

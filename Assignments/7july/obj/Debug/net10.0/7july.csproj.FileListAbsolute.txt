@@ -1,0 +1,15 @@
+C:\Users\91932\OneDrive\Desktop\One Smarter\Daily_Assignment\7july\bin\Debug\net10.0\7july.exe
+C:\Users\91932\OneDrive\Desktop\One Smarter\Daily_Assignment\7july\bin\Debug\net10.0\7july.deps.json
+C:\Users\91932\OneDrive\Desktop\One Smarter\Daily_Assignment\7july\bin\Debug\net10.0\7july.runtimeconfig.json
+C:\Users\91932\OneDrive\Desktop\One Smarter\Daily_Assignment\7july\bin\Debug\net10.0\7july.dll
+C:\Users\91932\OneDrive\Desktop\One Smarter\Daily_Assignment\7july\bin\Debug\net10.0\7july.pdb
+C:\Users\91932\OneDrive\Desktop\One Smarter\Daily_Assignment\7july\obj\Debug\net10.0\7july.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91932\OneDrive\Desktop\One Smarter\Daily_Assignment\7july\obj\Debug\net10.0\7july.AssemblyInfoInputs.cache
+C:\Users\91932\OneDrive\Desktop\One Smarter\Daily_Assignment\7july\obj\Debug\net10.0\7july.AssemblyInfo.cs
+C:\Users\91932\OneDrive\Desktop\One Smarter\Daily_Assignment\7july\obj\Debug\net10.0\7july.csproj.CoreCompileInputs.cache
+C:\Users\91932\OneDrive\Desktop\One Smarter\Daily_Assignment\7july\obj\Debug\net10.0\7july.sourcelink.json
+C:\Users\91932\OneDrive\Desktop\One Smarter\Daily_Assignment\7july\obj\Debug\net10.0\7july.dll
+C:\Users\91932\OneDrive\Desktop\One Smarter\Daily_Assignment\7july\obj\Debug\net10.0\refint\7july.dll
+C:\Users\91932\OneDrive\Desktop\One Smarter\Daily_Assignment\7july\obj\Debug\net10.0\7july.pdb
+C:\Users\91932\OneDrive\Desktop\One Smarter\Daily_Assignment\7july\obj\Debug\net10.0\7july.genruntimeconfig.cache
+C:\Users\91932\OneDrive\Desktop\One Smarter\Daily_Assignment\7july\obj\Debug\net10.0\ref\7july.dll

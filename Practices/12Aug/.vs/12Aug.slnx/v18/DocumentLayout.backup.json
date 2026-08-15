@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|c:\\users\\admin\\source\\repos\\12aug\\12aug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|solutionrelative:12aug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|c:\\users\\admin\\source\\repos\\12aug\\12aug\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|solutionrelative:12aug\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|c:\\users\\admin\\source\\repos\\12aug\\12aug\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|solutionrelative:12aug\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|c:\\users\\admin\\source\\repos\\12aug\\12aug\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|solutionrelative:12aug\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|c:\\users\\admin\\source\\repos\\12aug\\12aug\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|solutionrelative:12aug\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|c:\\users\\admin\\source\\repos\\12aug\\12aug\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|solutionrelative:12aug\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|c:\\users\\admin\\source\\repos\\12aug\\12aug\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|solutionrelative:12aug\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|c:\\users\\admin\\source\\repos\\12aug\\12aug\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|solutionrelative:12aug\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|c:\\users\\admin\\source\\repos\\12aug\\12aug\\repository\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|solutionrelative:12aug\\repository\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|c:\\users\\admin\\source\\repos\\12aug\\12aug\\repository\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|solutionrelative:12aug\\repository\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|c:\\users\\admin\\source\\repos\\12aug\\12aug\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88EF73D2-461F-4ACE-E3AF-B67B02845F16}|12Aug\\12Aug.csproj|solutionrelative:12aug\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\Program.cs",
+              "RelativeDocumentMoniker": "12Aug\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\Program.cs*",
+              "RelativeToolTip": "12Aug\\Program.cs*",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAmwGUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T05:05:41.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "12Aug\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\Models\\Student.cs",
+              "RelativeToolTip": "12Aug\\Models\\Student.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T04:32:33.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "12Aug\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\Services\\AuthService.cs",
+              "RelativeToolTip": "12Aug\\Services\\AuthService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T04:32:18.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\appsettings.json",
+              "RelativeDocumentMoniker": "12Aug\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\appsettings.json",
+              "RelativeToolTip": "12Aug\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-13T05:05:24.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "12Aug\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "12Aug\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T05:05:13.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "12Aug\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\Services\\StudentService.cs",
+              "RelativeToolTip": "12Aug\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T04:52:34.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "12Aug\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\Controllers\\StudentController.cs*",
+              "RelativeToolTip": "12Aug\\Controllers\\StudentController.cs*",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAqwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T04:55:49.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\Models\\User.cs",
+              "RelativeDocumentMoniker": "12Aug\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\Models\\User.cs",
+              "RelativeToolTip": "12Aug\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T04:39:40.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\Repository\\IStudentService.cs",
+              "RelativeDocumentMoniker": "12Aug\\Repository\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\Repository\\IStudentService.cs",
+              "RelativeToolTip": "12Aug\\Repository\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T04:50:24.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\Repository\\IAuthService.cs",
+              "RelativeDocumentMoniker": "12Aug\\Repository\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\Repository\\IAuthService.cs",
+              "RelativeToolTip": "12Aug\\Repository\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T05:07:00.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "12Aug\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\12Aug\\12Aug\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "12Aug\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T04:46:30.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
