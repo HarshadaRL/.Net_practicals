@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EmployeeManagementAPI/EmployeeManagementAPI.csproj" />
+  <Project Path="EmployeeManagementMVC/EmployeeManagementMVC.csproj" Id="9847b03b-9d9d-4b80-b0af-46ae76995455" />
+</Solution>

@@ -1,0 +1,178 @@
+﻿@model EmployeeManagementMVC.Models.DashboardViewModel
+
+@{
+    ViewData["Title"] = "Executive Dashboard";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+        <h2 class="fw-bold text-primary mb-0">📊 Management Dashboard</h2>
+        <p class="text-muted mb-0">Live organizational metrics and staff analytics</p>
+    </div>
+    @if (User.IsInRole("Admin"))
+    {
+        <a asp-controller="Employees" asp-action="Create" class="btn btn-primary shadow-sm">
+            ➕ Add New Employee
+        </a>
+    }
+</div>
+
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.ErrorMessage
+    </div>
+}
+
+<!-- Top Metric Cards Row -->
+<div class="row g-3 mb-4">
+    <!-- Total Employees -->
+    <div class="col-md-3">
+        <div class="card border-0 shadow-sm bg-primary text-white p-3 h-100">
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    <h6 class="text-uppercase small mb-1 opacity-75">Total Employees</h6>
+                    <h2 class="fw-bold mb-0">@Model.TotalEmployees</h2>
+                </div>
+                <span class="fs-1 opacity-50">👥</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Active Employees -->
+    <div class="col-md-3">
+        <div class="card border-0 shadow-sm bg-success text-white p-3 h-100">
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    <h6 class="text-uppercase small mb-1 opacity-75">Active Staff</h6>
+                    <h2 class="fw-bold mb-0">@Model.ActiveEmployees</h2>
+                </div>
+                <span class="fs-1 opacity-50">✅</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Inactive Employees -->
+    <div class="col-md-3">
+        <div class="card border-0 shadow-sm bg-danger text-white p-3 h-100">
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    <h6 class="text-uppercase small mb-1 opacity-75">Inactive Staff</h6>
+                    <h2 class="fw-bold mb-0">@Model.InactiveEmployees</h2>
+                </div>
+                <span class="fs-1 opacity-50">⏸️</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Departments & Designations -->
+    <div class="col-md-3">
+        <div class="card border-0 shadow-sm bg-info text-dark p-3 h-100">
+            <div class="d-flex justify-content-between align-items-center">
+                <div>
+                    <h6 class="text-uppercase small mb-1 opacity-75">Departments / Roles</h6>
+                    <h3 class="fw-bold mb-0">@Model.TotalDepartments <span class="small text-muted fw-normal">Depts</span> / @Model.TotalDesignations <span class="small text-muted fw-normal">Roles</span></h3>
+                </div>
+                <span class="fs-1 opacity-50">🏢</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Financial Stats & Quick Links Row -->
+<div class="row g-3 mb-4">
+    <div class="col-md-6">
+        <div class="card shadow-sm border-0 h-100 p-4 bg-white">
+            <h5 class="fw-bold text-dark mb-3">💰 Payroll & Compensation Summary</h5>
+            <div class="d-flex justify-content-between align-items-center py-2 border-bottom">
+                <span class="text-muted">Total Monthly Payroll:</span>
+                <span class="fs-4 fw-bold text-success">$@Model.TotalPayroll.ToString("N2")</span>
+            </div>
+            <div class="d-flex justify-content-between align-items-center py-2">
+                <span class="text-muted">Average Employee Salary:</span>
+                <span class="fs-5 fw-semibold text-dark">$@Model.AverageSalary.ToString("N2")</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <div class="card shadow-sm border-0 h-100 p-4 bg-white">
+            <h5 class="fw-bold text-dark mb-3">⚡ Quick Navigation</h5>
+            <div class="d-flex gap-2 flex-wrap">
+                <a asp-controller="Employees" asp-action="Index" class="btn btn-outline-primary">
+                    🔍 Search Directory
+                </a>
+                @if (User.IsInRole("Admin"))
+                {
+                    <a asp-controller="Departments" asp-action="Create" class="btn btn-outline-info">
+                        ➕ New Department
+                    </a>
+                    <a asp-controller="Designations" asp-action="Create" class="btn btn-outline-success">
+                        ➕ New Designation
+                    </a>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Recent Onboarded Employees Widget -->
+<div class="card shadow-sm border-0 mb-4 bg-white">
+    <div class="card-header bg-dark text-white py-3 d-flex justify-content-between align-items-center">
+        <h5 class="mb-0 fw-bold">🕒 Recent Onboarded Staff (Latest 5)</h5>
+        <a asp-controller="Employees" asp-action="Index" class="btn btn-sm btn-outline-light">
+            View All Employees →
+        </a>
+    </div>
+    <div class="card-body p-0">
+        <div class="table-responsive">
+            <table class="table table-hover align-middle mb-0">
+                <thead class="table-light">
+                    <tr>
+                        <th>ID</th>
+                        <th>Name</th>
+                        <th>Department</th>
+                        <th>Designation</th>
+                        <th>Salary</th>
+                        <th>Status</th>
+                        <th>Joined Date</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model.RecentEmployees != null && Model.RecentEmployees.Any())
+                    {
+                        @foreach (var emp in Model.RecentEmployees)
+                        {
+                            <tr>
+                                <td class="fw-bold">@emp.Id</td>
+                                <td class="fw-semibold">@emp.Name</td>
+                                <td><span class="badge bg-info text-dark">@emp.DepartmentName</span></td>
+                                <td><span class="badge bg-success">@emp.DesignationName</span></td>
+                                <td class="fw-semibold text-success">$@emp.Salary.ToString("N2")</td>
+                                <td>
+                                    @if (emp.Status == "Active")
+                                    {
+                                        <span class="badge bg-success">Active</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="badge bg-danger">Inactive</span>
+                                    }
+                                </td>
+                                <td class="text-muted small">@emp.JoiningDate.ToString("MMM dd, yyyy")</td>
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <tr>
+                            <td colspan="7" class="text-center py-4 text-muted">
+                                <em>No employees found in the system yet.</em>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

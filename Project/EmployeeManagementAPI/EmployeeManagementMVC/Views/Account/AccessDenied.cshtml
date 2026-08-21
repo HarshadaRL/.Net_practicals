@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Access Denied";
+}
+
+<div class="container text-center my-5 py-5">
+    <div class="display-1 text-danger fw-bold">🛑 403</div>
+    <h2 class="fw-bold mt-3">Access Denied</h2>
+    <p class="lead text-muted">You do not have Administrator permissions to perform this action.</p>
+    <a asp-controller="Employees" asp-action="Index" class="btn btn-primary mt-3">
+        ← Return to Employee Directory
+    </a>
+</div>

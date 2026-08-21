@@ -1,0 +1,63 @@
+﻿@model IEnumerable<EmployeeManagementMVC.Models.Department>
+
+@{
+    ViewData["Title"] = "Department List";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+        <h2 class="fw-bold text-primary mb-0">Departments</h2>
+        <p class="text-muted mb-0">Manage organizational departments</p>
+    </div>
+    <a asp-action="Create" class="btn btn-primary shadow-sm px-3 py-2">
+        ➕ Add Department
+    </a>
+</div>
+
+<div class="card shadow-sm border-0">
+    <div class="card-body p-0">
+        <div class="table-responsive">
+            <table class="table table-hover table-striped align-middle mb-0">
+                <thead class="table-dark">
+                    <tr>
+                        <th scope="col" style="width: 10%;">ID</th>
+                        <th scope="col" style="width: 30%;">Department Name</th>
+                        <th scope="col" style="width: 45%;">Description</th>
+                        <th scope="col" style="width: 15%; text-align: center;">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model != null && Model.Any())
+                    {
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td class="fw-bold">@item.Id</td>
+                                <td class="fw-semibold">@item.Name</td>
+                                <td>@item.Description</td>
+                                <td class="text-center">
+                                    <div class="btn-group" role="group">
+                                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-warning">
+                                            Edit
+                                        </a>
+                                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-outline-danger ms-1">
+                                            Delete
+                                        </a>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <tr>
+                            <td colspan="4" class="text-center py-5 text-muted">
+                                <em>No departments found. Click "Add Department" to create one.</em>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
